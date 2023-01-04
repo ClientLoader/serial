@@ -9,3 +9,4 @@ This is not a Spoofer, it's just protection against real hardware bans.
 
 https://user-images.githubusercontent.com/94861415/195949543-2714274a-9647-4639-980f-c5218b5379fc.mp4
 
+ 
